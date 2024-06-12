@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-12T20:30:42 IST" name="Default suite" finished-at="2024-06-12T20:30:59 IST" duration-ms="16142">
+    <groups>
+    </groups>
+    <test started-at="2024-06-12T20:30:42 IST" name="Default test" finished-at="2024-06-12T20:30:59 IST" duration-ms="16142">
+      <class name="automationRun.amazonTestCase">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:automationRun.amazonTestCase@51768776]" started-at="2024-06-12T20:30:42 IST" name="setUp" finished-at="2024-06-12T20:30:44 IST" duration-ms="1902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="amazonScenarioTest()[pri:0, instance:automationRun.amazonTestCase@51768776]" started-at="2024-06-12T20:30:44 IST" name="amazonScenarioTest" finished-at="2024-06-12T20:30:56 IST" duration-ms="11807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonScenarioTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:automationRun.amazonTestCase@51768776]" started-at="2024-06-12T20:30:56 IST" name="tearDown" finished-at="2024-06-12T20:30:59 IST" duration-ms="2407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- automationRun.amazonTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
